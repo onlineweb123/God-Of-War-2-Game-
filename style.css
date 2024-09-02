@@ -8,6 +8,8 @@ h1{
 	color: red;
 	font-size: 150px;
 	width:1000px;
+	text-align: center;
+
 
 }
 
@@ -15,6 +17,7 @@ p{
 	color:#545454 ;
 	font-size: 80px;
 	width:800px;
+	text-align: center;
 
 }
 .₹{
